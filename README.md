@@ -1,5 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/GrahamScanDemo.gif/200px-GrahamScanDemo.gif">
-
 ## 볼록 껍질(Convex hull)은 2차원 유클리드 좌표에서 어떤 점들의 집합으로 만든 다각형이 다른 모든 점들을 모두 포함하는 점들의 집합을 말합니다.
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA0MTFfMTg5/MDAxNTU0OTQ5MjMzODQ5.CtMxrQN8bfUvY5_ha9NLlkf4d0kTzFBp0L7szfGk8mQg.iGJwFYkKHn1ZEBotjx2B6AMb3xiLk218GqVDuulWG6Yg.PNG.pyw0564/image.png?type=w800">
